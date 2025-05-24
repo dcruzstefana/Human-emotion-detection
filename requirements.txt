@@ -1,0 +1,8 @@
+streamlit
+sounddevice
+numpy
+matplotlib
+librosa
+joblib
+opencv-python
+deepface
